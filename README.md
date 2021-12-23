@@ -6,7 +6,7 @@ Requirements:
 
 Spyder 4
 
-In the C: directory, the attached file Hastie10_2Corrected.txt must have been downloaded.
+In the C: directory, the attached file Hastie10_2Corrected.txt must have been downloaded. It is the HASTIE obtained with the facilities of sklearn but corrected so that all the records are correct in the training and to be able to measure the real precision of the algorithm.
 
 Functioning:
 
